@@ -1,0 +1,13 @@
+{
+  "name": "beck-crawler-marketplace",
+  "owner": {
+    "name": "Kelvin Shammai",
+    "url": "https://github.com/kelvinshammai"
+  },
+  "plugins": [
+    {
+      "name": "beck-crawler",
+      "source": "./"
+    }
+  ]
+}

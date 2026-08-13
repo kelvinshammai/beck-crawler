@@ -1,0 +1,15 @@
+{
+  "abecmed": {
+    "label": "ABECMED",
+    "base_url": "https://bot.abecmed.com.br/api/v1",
+    "typebot_slug": "pix-pagamento",
+    "verified": "2026-08-12",
+    "photo_template": "two_panel",
+    "flow_hints": {
+      "patient_choice": "paciente",
+      "categories": ["flor", "concentrado"],
+      "cannabinoid_types": ["THC", "CBD", "CBG", "THC_CBD"],
+      "back": "voltar"
+    }
+  }
+}

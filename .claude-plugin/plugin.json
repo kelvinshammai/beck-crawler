@@ -1,0 +1,19 @@
+{
+  "name": "beck-crawler",
+  "displayName": "beck-crawler",
+  "version": "1.0.0",
+  "description": "Checks patient product availability/pricing and builds an HTML catalog page for any cannabis association's Typebot-based patient chatbot.",
+  "author": {
+    "name": "Kelvin Shammai",
+    "url": "https://github.com/kelvinshammai"
+  },
+  "repository": "https://github.com/kelvinshammai/beck-crawler",
+  "homepage": "https://github.com/kelvinshammai/beck-crawler",
+  "license": "MIT",
+  "keywords": [
+    "cannabis",
+    "typebot",
+    "catalog",
+    "web-scraping"
+  ]
+}
